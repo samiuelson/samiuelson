@@ -1,4 +1,4 @@
-### Hi there, Traveler 🖐🏼 
+### Hi there 🖐🏼 
 
 Welcome to my GitHub!
 
