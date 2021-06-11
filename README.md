@@ -1,6 +1,4 @@
-### Hi there 🖐🏼 
-
-My name is Sam. 
+### Hi there, Traveler 🖐🏼 
 
 Welcome to my GitHub!
 
