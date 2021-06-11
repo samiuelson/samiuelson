@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome, Traveler 👋 
+
+![cat](https://user-images.githubusercontent.com/4527432/121690483-3109e700-cac6-11eb-99bb-d3e717fd5182.gif)
 
 <!--
 **samiuelson/samiuelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
