@@ -1,4 +1,8 @@
-### Welcome, Traveler 👋 
+### Hi there 🖐🏼 
+
+My name is Sam. 
+
+Welcome to my GitHub!
 
 ![cat](https://user-images.githubusercontent.com/4527432/121690483-3109e700-cac6-11eb-99bb-d3e717fd5182.gif)
 
